@@ -1,0 +1,16 @@
+[
+  { 
+    "name": [],
+    "date": [],
+    "resultInProcent": {
+      "dog": 0,
+      "cat": 0,
+      "bunny": 0,
+      "fish": 0
+    },
+    "dogPoints": 0,
+    "catPoints": 0,
+    "bunnyPoints": 0,
+    "fishPoints": 0
+  }
+]

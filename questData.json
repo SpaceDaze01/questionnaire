@@ -1,0 +1,244 @@
+{
+  "questionnaire": [
+    {
+     "question": "Do you like to exercise a lot? ",
+     "options": ["yes", "no"],
+     "yes": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    },
+     "no": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    }
+    },
+    {
+     "question": "Are you a night person? ",
+     "options": ["yes", "no"],
+     "yes": {
+      "dog": 2,
+      "cat": 3,
+      "bunny": 1,
+      "fish": 0
+    },
+      "no": {
+      "dog": 1,
+      "cat": 0,
+      "bunny": 2,
+      "fish": 3
+    }
+    },
+    {
+     "question": "Do you have much free time? ",
+     "options": ["yes", "no"],
+     "yes": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    },
+      "no": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    }
+    },
+    {
+     "question": "Do you like to relax? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    },
+    "no": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    }
+    },
+    {
+     "question": "Are you a very social person? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    },
+      "no": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    }
+    },
+    {
+     "question": "Are you good with cleaning? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 3,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 0
+    },
+      "no": {
+      "dog": 0,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 3
+    }
+    },
+    {
+     "question": "Are you willing to spend a lot of money on your pet? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    },
+      "no": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    } 
+    },
+    {
+     "question": "Do you have a lot of space at home? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    },
+      "no": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    }
+    },
+    {
+     "question": "Are you forgetful? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    },
+      "no": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    }
+    },
+    {
+     "question": "Do you want an animal that is pretty clean and does not smell a lot? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 1,
+      "cat": 2,
+      "bunny": 0,
+      "fish": 3
+    },
+      "no": {
+      "dog": 2,
+      "cat": 1,
+      "bunny": 3,
+      "fish": 0
+    } 
+    },
+    {
+     "question": "Have you ever had pets before? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    },
+      "no": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    }
+    },
+    {
+     "question": "Do you want to have a quiet and peaceful environment most of the time? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    },
+      "no": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    }
+    },
+    {
+     "question": "Are you willing to go out a lot? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    },
+      "no": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    }
+    },
+    {
+     "question": "Do you want to be able to cuddle with your pet a lot? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    },
+      "no": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    }
+    },
+    {
+     "question": "Do you have something against if your pet accidently skratches, bites or nibble you you? ",
+     "options": ["yes", "no"],
+      "yes": {
+      "dog": 0,
+      "cat": 1,
+      "bunny": 2,
+      "fish": 3
+    },
+      "no": {
+      "dog": 3,
+      "cat": 2,
+      "bunny": 1,
+      "fish": 0
+    }
+    }
+  ]
+}
