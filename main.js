@@ -101,10 +101,6 @@ for (const info in user) {
 
 
 
-//frågor:
-//Hur gör jag att String(text) blir till ett nummer värde istället? (dog, cat, bunny, fish) 
-//Hur gör jag för att säga till användaren om den skrivit in fel inmatning i programmet?
-//skriva in flera användare som gjort frågeformuläret
-//vill få totalscore, sen omvandla till procent?
+
 
 
